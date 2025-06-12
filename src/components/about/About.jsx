@@ -37,7 +37,10 @@ const About = () => {
 
           <div className="about__data grid">
             <div className="about__info">
-              <p className="about__description">I am a passionate MERN Stack Developer with hands-on experience in building and maintaining full-stack applications. With 6 months of frontend development expertise and an ongoing apprenticeship focusing on backend technologies like Node.js, Express, and MongoDB, I specialize in creating dynamic, user-friendly web applications. Adept at problem-solving, I thrive in collaborative environments and am committed to continuous learning to stay updated with industry trends.</p>
+              <p className="about__description"> I am a dedicated Web Developer with expertise in frontend development. I
+ completed a 6-month internship in frontend development and hold a MERN Stack
+ certification from Profenaa Technologies. I am currently building my skills in
+ Node.js, Express, and MongoDB to enhance my full-stack abilities.</p>
               <a href={Arunresume} download={Arunresume} className="btn">Downlode CV</a>
 
               

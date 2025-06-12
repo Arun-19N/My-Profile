@@ -27,7 +27,7 @@ const Datas = [
       id: 4,
       category: "experience", // Example of an experience entry
       icon: "icon-briefcase",
-      year: "2024(JAN) - 2024(MAY)",
+     
       title: "MERN Stack Development Course",
       desc: "Completed a MERN Stack Developer course at Profenaa Technologies, focusing on building full-stack web applications using MongoDB, Express.js, React, and Node.js.",
     },
@@ -35,7 +35,7 @@ const Datas = [
       id: 5,
       category: "experience", // Correct category
       icon: "icon-briefcase",
-      year: "2024(MAY) - 2024(OCT)",
+     
       title: "experience",
       desc: "I have 6 months of experience as a Frontend Developer at Vizweb Solutions, where I focused on developing responsive web applications and enhancing user interfaces.",
     },

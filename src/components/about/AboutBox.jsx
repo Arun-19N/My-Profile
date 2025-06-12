@@ -17,7 +17,7 @@ const AboutBox = () => {
         {/* <i className='about__icon'><i className="fa-solid fa-mug-hot"></i></i>     */}
         <div>
             <h3 className="about__title">Node Js</h3>
-            <spab className="about__subtitle">70%</spab>
+            <spab className="about__subtitle">50%</spab>
         </div>
         </div>
         <div className="about__box">
@@ -31,7 +31,7 @@ const AboutBox = () => {
         {/* <i className='about__icon'><i className="fa-solid fa-mug-hot"></i></i>     */}
         <div>
             <h3 className="about__title">Mongo DB</h3>
-            <spab className="about__subtitle">80%</spab>
+            <spab className="about__subtitle">70%</spab>
         </div>
         </div>
       </div>

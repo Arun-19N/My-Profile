@@ -3,7 +3,7 @@ import './About.css';
 import img from '../home/jerry.jpeg'
 import AboutBox from './AboutBox';
 import Squares from '../background/Squares';
-import Arunresume from '../../assets/Arunresume.pdf'
+import Arunresume from './Arun-Resume.pdf'
 
 const About = () => {
 
